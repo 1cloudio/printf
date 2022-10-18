@@ -1,3 +1,4 @@
-0x11. C - printf Team Project by;
-Nnachi Michael
-Okiki Sotayo
+0x11. C - printf Team Project by
+
+Nnachi Michael (1cloudio) &
+Okiki Sotayo (OkikiSotayo)
